@@ -18,9 +18,6 @@
 - Python 3.8+
 - CUDA支持（可选，用于GPU加速）
 
-## 安装
-
-1. 克隆仓库：
 
 ## 安装依赖
 
@@ -29,10 +26,10 @@ pip install -r requirements.txt
 ```
 
 ## 使用方法
-
-1. 安装所需依赖
-2. 下载YOLO11模型文件到 `weights` 文件夹
-3. 运行程序：
+1. 克隆仓库
+2. 安装所需依赖
+3. 下载YOLO11模型文件到 `weights` 文件夹
+4. 运行程序：
 ```bash
 python monitor.py
 ```
